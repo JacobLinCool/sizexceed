@@ -1,0 +1,21 @@
+{
+    "name": "sizexceed",
+    "version": "0.1.0",
+    "description": "Find Size Exceeded Files",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "example": "cd example && node example.js"
+    },
+    "keywords": [
+        "file",
+        "size",
+        "exceed"
+    ],
+    "author": "JacobLinCool",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^27.0.6",
+        "sizexceed": "^0.1.0"
+    }
+}
