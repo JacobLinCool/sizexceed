@@ -1,6 +1,6 @@
 {
     "name": "sizexceed",
-    "version": "0.1.0",
+    "version": "0.2.1",
     "description": "Find Size Exceeded Files",
     "main": "index.js",
     "scripts": {
@@ -16,6 +16,6 @@
     "license": "MIT",
     "devDependencies": {
         "jest": "^27.0.6",
-        "sizexceed": "^0.1.0"
+        "sizexceed": "^0.2.1"
     }
 }
